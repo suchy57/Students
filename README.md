@@ -1,1 +1,1 @@
-# Students
+# It's JWT test only.
